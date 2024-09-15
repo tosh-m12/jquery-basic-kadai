@@ -3,5 +3,5 @@ $(window).on('load', () => {
 });
 
 $(document).on('scroll', () => {
-    console.log('スクロールされました');
-})
+    console.log('scrollイベントが発生しましたた');
+});
